@@ -1,0 +1,1 @@
+#criar um array e ler até nao ter mais numeros, depois fazer as contas com base no array
